@@ -22,3 +22,18 @@
 [03:40:32] [User Authenticator #1/INFO]: UUID of player Paskettioz is 14154f56-e60e-4775-85f3-fc6c82a7af83
 [03:40:32] [Server thread/INFO]: Paskettioz[/128.143.1.11:26113] logged in with entity id 94 at (-836.2574033552053, 80.72477717045525, 854.2919122072665)
 [03:40:32] [Server thread/INFO]: Paskettioz joined the game
+[03:46:04] [Server thread/INFO]: Paskettioz lost connection: Disconnected
+[03:46:04] [Server thread/INFO]: Paskettioz left the game
+[03:46:13] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:46:13] [Server thread/INFO]: [B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[Bstop<--[HERE]
+[03:46:15] [Server thread/INFO]: Stopping the server
+[03:46:15] [Server thread/INFO]: Stopping server
+[03:46:15] [Server thread/INFO]: Saving players
+[03:46:15] [Server thread/INFO]: Saving worlds
+[03:46:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[STUD CRAFT]'/minecraft:overworld
+[03:46:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[STUD CRAFT]'/minecraft:the_nether
+[03:46:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[STUD CRAFT]'/minecraft:the_end
+[03:46:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:46:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:46:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:46:15] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
