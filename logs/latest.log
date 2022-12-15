@@ -1,27 +1,24 @@
-[03:30:54] [ServerMain/INFO]: Building unoptimized datafixer
-[03:30:54] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[03:30:55] [ServerMain/INFO]: Loaded 7 recipes
-[03:30:55] [ServerMain/INFO]: Loaded 1179 advancements
-[03:30:56] [Server thread/INFO]: Starting minecraft server version 1.19.3
-[03:30:56] [Server thread/INFO]: Loading properties
-[03:30:56] [Server thread/INFO]: Default game type: SURVIVAL
-[03:30:56] [Server thread/INFO]: Generating keypair
-[03:30:56] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:30:56] [Server thread/INFO]: Using epoll channel type
-[03:30:56] [Server thread/INFO]: Preparing level "world"
-[03:30:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:30:58] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[03:30:58] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[03:30:58] [Worker-Main-22/INFO]: Preparing spawn area: 0%
-[03:30:58] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[03:30:58] [Worker-Main-14/INFO]: Preparing spawn area: 50%
-[03:30:58] [Server thread/INFO]: Time elapsed: 2186 ms
-[03:30:58] [Server thread/INFO]: Done (2.584s)! For help, type "help"
-[03:31:08] [User Authenticator #1/INFO]: UUID of player Paskettioz is 14154f56-e60e-4775-85f3-fc6c82a7af83
-[03:31:08] [Server thread/INFO]: Paskettioz[/128.143.1.11:63916] logged in with entity id 120 at (-980.7869444027093, 125.11380043138034, 751.1960503116617)
-[03:31:08] [Server thread/INFO]: Paskettioz joined the game
-[03:31:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
-[03:31:21] [Server thread/INFO]: [Paskettioz: Set own game mode to Creative Mode]
-[03:31:58] [Server thread/INFO]: [Paskettioz: Set own game mode to Spectator Mode]
-[03:33:24] [Server thread/INFO]: Paskettioz lost connection: Disconnected
-[03:33:24] [Server thread/INFO]: Paskettioz left the game
+[03:38:39] [ServerMain/INFO]: Building unoptimized datafixer
+[03:38:40] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03:38:41] [ServerMain/INFO]: Loaded 7 recipes
+[03:38:41] [ServerMain/INFO]: Loaded 1179 advancements
+[03:38:41] [Server thread/INFO]: Starting minecraft server version 1.19.3
+[03:38:41] [Server thread/INFO]: Loading properties
+[03:38:41] [Server thread/INFO]: Default game type: SURVIVAL
+[03:38:41] [Server thread/INFO]: Generating keypair
+[03:38:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:38:41] [Server thread/INFO]: Using epoll channel type
+[03:38:41] [Server thread/INFO]: Preparing level "world"
+[03:38:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:38:43] [Worker-Main-22/INFO]: Preparing spawn area: 0%
+[03:38:43] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[03:38:43] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[03:38:43] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:38:44] [Worker-Main-10/INFO]: Preparing spawn area: 38%
+[03:38:44] [Server thread/INFO]: Time elapsed: 2267 ms
+[03:38:44] [Server thread/INFO]: Done (2.671s)! For help, type "help"
+[03:38:58] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:38:58] [Server thread/INFO]: [A[A[A[A[A[A[A[A[A[A[A[A[A[A<--[HERE]
+[03:40:32] [User Authenticator #1/INFO]: UUID of player Paskettioz is 14154f56-e60e-4775-85f3-fc6c82a7af83
+[03:40:32] [Server thread/INFO]: Paskettioz[/128.143.1.11:26113] logged in with entity id 94 at (-836.2574033552053, 80.72477717045525, 854.2919122072665)
+[03:40:32] [Server thread/INFO]: Paskettioz joined the game
