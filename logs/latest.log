@@ -480,3 +480,14 @@
 [02:50:07] [Server thread/INFO]: Bob_the_Plant_2 left the game
 [02:51:27] [Server thread/INFO]: Paskettioz lost connection: Disconnected
 [02:51:27] [Server thread/INFO]: Paskettioz left the game
+[02:59:31] [Server thread/INFO]: Stopping the server
+[02:59:31] [Server thread/INFO]: Stopping server
+[02:59:31] [Server thread/INFO]: Saving players
+[02:59:31] [Server thread/INFO]: Saving worlds
+[02:59:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[STUD CRAFT]'/minecraft:overworld
+[02:59:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[STUD CRAFT]'/minecraft:the_end
+[02:59:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[STUD CRAFT]'/minecraft:the_nether
+[02:59:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:59:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:59:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:59:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
