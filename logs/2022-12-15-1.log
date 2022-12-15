@@ -1,0 +1,57 @@
+[00:05:56] [Server thread/INFO]: rocketmannoah lost connection: Disconnected
+[00:05:56] [Server thread/INFO]: rocketmannoah left the game
+[00:08:25] [Worker-Main-6/ERROR]: Caught exception in thread Thread[Worker-Main-6,5,main]
+java.lang.OutOfMemoryError: Java heap space
+	at it.unimi.dsi.fastutil.longs.Long2ObjectOpenHashMap.clone(Long2ObjectOpenHashMap.java:1332) ~[fastutil-8.5.9.jar:?]
+	at dtd$a.a(SourceFile:337) ~[server-1.19.3.jar:?]
+	at dtd$a.b(SourceFile:317) ~[server-1.19.3.jar:?]
+	at dsz.e(SourceFile:381) ~[server-1.19.3.jar:?]
+	at dsx.a(SourceFile:203) ~[server-1.19.3.jar:?]
+	at dta.a(SourceFile:65) ~[server-1.19.3.jar:?]
+	at ahp.e(SourceFile:188) ~[server-1.19.3.jar:?]
+	at ahp.a(SourceFile:107) ~[server-1.19.3.jar:?]
+	at ahp$$Lambda$4800/0x000000080155ba88.run(Unknown Source) ~[?:?]
+	at ahb.b(SourceFile:62) ~[server-1.19.3.jar:?]
+	at ahb$$Lambda$4886/0x00000008013d6de0.run(Unknown Source) ~[?:?]
+	at bbf.h(SourceFile:91) ~[server-1.19.3.jar:?]
+	at bbf.a(SourceFile:146) ~[server-1.19.3.jar:?]
+	at bbf.run(SourceFile:102) ~[server-1.19.3.jar:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[00:08:33] [User Authenticator #13/INFO]: UUID of player rocketmannoah is b4bf6792-a625-419b-9704-34cf0d79f8fa
+[00:08:33] [Server thread/INFO]: rocketmannoah[/128.143.0.10:61439] logged in with entity id 55983 at (-963.5020203779821, 127.0, 893.88201786016)
+[00:08:33] [Server thread/INFO]: rocketmannoah joined the game
+[00:09:09] [Server thread/INFO]: rocketmannoah lost connection: Disconnected
+[00:09:09] [Server thread/INFO]: rocketmannoah left the game
+[00:09:10] [User Authenticator #14/INFO]: UUID of player rocketmannoah is b4bf6792-a625-419b-9704-34cf0d79f8fa
+[00:09:10] [Server thread/INFO]: rocketmannoah[/128.143.0.10:61443] logged in with entity id 56133 at (-963.5020203779821, 127.0, 893.88201786016)
+[00:09:10] [Server thread/INFO]: rocketmannoah joined the game
+[00:10:27] [Server thread/INFO]: rocketmannoah lost connection: Disconnected
+[00:10:27] [Server thread/INFO]: rocketmannoah left the game
+[00:10:36] [User Authenticator #15/INFO]: UUID of player rocketmannoah is b4bf6792-a625-419b-9704-34cf0d79f8fa
+[00:10:36] [Server thread/INFO]: rocketmannoah[/128.143.0.10:61451] logged in with entity id 56454 at (-963.4919165778338, 127.0, 893.8988119267314)
+[00:10:36] [Server thread/INFO]: rocketmannoah joined the game
+[00:11:12] [Server thread/INFO]: rocketmannoah lost connection: Disconnected
+[00:11:12] [Server thread/INFO]: rocketmannoah left the game
+[00:13:11] [User Authenticator #16/INFO]: UUID of player rocketmannoah is b4bf6792-a625-419b-9704-34cf0d79f8fa
+[00:13:11] [Server thread/INFO]: rocketmannoah[/128.143.0.10:61455] logged in with entity id 57235 at (-963.4919165778338, 127.0, 893.8988119267314)
+[00:13:11] [Server thread/INFO]: rocketmannoah joined the game
+[00:13:41] [Server thread/INFO]: rocketmannoah lost connection: Disconnected
+[00:13:41] [Server thread/INFO]: rocketmannoah left the game
+[00:14:24] [Server thread/INFO]: Bob_the_Plant_2 lost connection: Disconnected
+[00:14:24] [Server thread/INFO]: Bob_the_Plant_2 left the game
+[00:14:32] [Server thread/INFO]: unclerico12345 lost connection: Disconnected
+[00:14:32] [Server thread/INFO]: unclerico12345 left the game
+[00:14:37] [User Authenticator #17/INFO]: UUID of player unclerico12345 is 466f969c-ee95-4967-b365-f2669ef70e3d
+[00:14:37] [Server thread/INFO]: unclerico12345[/128.143.1.11:56874] logged in with entity id 57556 at (-987.7471604049596, 101.0, 798.9581547746465)
+[00:14:37] [Server thread/INFO]: unclerico12345 joined the game
+[00:14:56] [User Authenticator #18/INFO]: UUID of player Bob_the_Plant_2 is 2f6bf759-e842-4633-8718-6fdc49d4b5db
+[00:14:56] [Server thread/INFO]: Bob_the_Plant_2[/128.143.1.11:61638] logged in with entity id 57732 at (884.5222215346216, 116.0, 1441.9500150855845)
+[00:14:56] [Server thread/INFO]: Bob_the_Plant_2 joined the game
+[00:15:56] [Server Watchdog/ERROR]: A single server tick took 60.00 seconds (should be max 0.05)
+[00:15:56] [Server Watchdog/ERROR]: Considering it to be crashed, server will forcibly shutdown.
+[00:15:56] [Server Watchdog/ERROR]: This crash report has been saved to: /home/hudson/server/./crash-reports/crash-2022-12-15_00.15.56-server.txt
